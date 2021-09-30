@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1360505322 source:c:\users\caiman\documents\liste1.1\main.c
+	"tools.h"
+
+1360005379 source:c:\users\caiman\documents\liste1.1\lecteur.c
+	"lecteur.h"
+
+1359100917 c:\users\caiman\documents\liste1.1\lecteur.h
+	"tools.h"
+
+1360524799 c:\users\caiman\documents\liste1.1\tools.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"auteur.h"
+	"lecteur.h"
+	"editeur.h"
+	"livre.h"
+	"ouvrage.h"
+	"pret.h"
+	"menue.h"
+
+1360511978 source:c:\users\caiman\documents\liste1.1\menu.c
+	"tools.h"
+
+1360503059 source:c:\users\caiman\documents\liste1.1\auteur.c
+	"auteur.h"
+
+1359114234 c:\users\caiman\documents\liste1.1\auteur.h
+	"tools.h"
+
+1360509522 source:c:\users\caiman\documents\liste1.1\ouvrage.c
+	"ouvrage.h"
+
+1359119506 c:\users\caiman\documents\liste1.1\ouvrage.h
+	"tools.h"
+
+1360505057 source:c:\users\caiman\documents\liste1.1\pret.c
+	"pret.h"
+
+1360150801 c:\users\caiman\documents\liste1.1\pret.h
+	"tools.h"
+
+1359104098 source:c:\users\caiman\documents\liste1.1\editeur.c
+	"editeur.h"
+
+1359085902 c:\users\caiman\documents\liste1.1\editeur.h
+	"tools.h"
+
+1359829571 source:c:\users\caiman\documents\liste1.1\livre.c
+	"livre.h"
+
+1359099853 c:\users\caiman\documents\liste1.1\livre.h
+	"tools.h"
+
+1359556915 source:c:\users\caiman\documents\liste1.1\conexion.c
+	"conexion.h"
+
+1359554479 c:\users\caiman\documents\liste1.1\conexion.h
+	"tools.h"
+
+1360270952 c:\users\caiman\documents\liste1.1\menue.h
+	"tools.h"
+

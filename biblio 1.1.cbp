@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="liste1.1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\liste1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\liste1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="auteur.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="auteur.h" />
+		<Unit filename="conexion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="conexion.h" />
+		<Unit filename="editeur.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="editeur.h" />
+		<Unit filename="lecteur.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lecteur.h" />
+		<Unit filename="livre.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="livre.h" />
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menue.h" />
+		<Unit filename="ouvrage.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ouvrage.h" />
+		<Unit filename="pret.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pret.h" />
+		<Unit filename="principale.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tools.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

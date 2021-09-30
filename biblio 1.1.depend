@@ -1,0 +1,394 @@
+# depslib dependency file v1.0
+1360924464 source:c:\users\caiman\documents\biblio 1.1\auteur.c
+	"auteur.h"
+
+1359114234 c:\users\caiman\documents\biblio 1.1\auteur.h
+	"tools.h"
+
+1360880104 c:\users\caiman\documents\biblio 1.1\tools.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"auteur.h"
+	"lecteur.h"
+	"editeur.h"
+	"livre.h"
+	"ouvrage.h"
+	"pret.h"
+	"menue.h"
+
+1359100917 c:\users\caiman\documents\biblio 1.1\lecteur.h
+	"tools.h"
+
+1359085902 c:\users\caiman\documents\biblio 1.1\editeur.h
+	"tools.h"
+
+1359099853 c:\users\caiman\documents\biblio 1.1\livre.h
+	"tools.h"
+
+1360884103 c:\users\caiman\documents\biblio 1.1\ouvrage.h
+	"tools.h"
+
+1360894788 c:\users\caiman\documents\biblio 1.1\pret.h
+	"tools.h"
+
+1361111477 c:\users\caiman\documents\biblio 1.1\menue.h
+	"tools.h"
+
+1360738776 source:c:\users\caiman\documents\biblio 1.1\conexion.c
+	"conexion.h"
+
+1360914784 c:\users\caiman\documents\biblio 1.1\conexion.h
+	"tools.h"
+
+1360924464 source:c:\users\caiman\documents\biblio 1.1\editeur.c
+	"editeur.h"
+
+1360924476 source:c:\users\caiman\documents\biblio 1.1\lecteur.c
+	"lecteur.h"
+
+1360924464 source:c:\users\caiman\documents\biblio 1.1\livre.c
+	"livre.h"
+
+1361122386 source:c:\users\caiman\documents\biblio 1.1\menu.c
+	"tools.h"
+
+1361122325 source:c:\users\caiman\documents\biblio 1.1\ouvrage.c
+	"ouvrage.h"
+
+1361111844 source:c:\users\caiman\documents\biblio 1.1\pret.c
+	"pret.h"
+
+1360923994 source:c:\users\caiman\documents\biblio 1.1\principale.c
+	"tools.h"
+
+1360924464 source:e:\biblio 1.1\auteur.c
+	"auteur.h"
+
+1359114234 e:\biblio 1.1\auteur.h
+	"tools.h"
+
+1360880104 e:\biblio 1.1\tools.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"auteur.h"
+	"lecteur.h"
+	"editeur.h"
+	"livre.h"
+	"ouvrage.h"
+	"pret.h"
+	"menue.h"
+
+1359100917 e:\biblio 1.1\lecteur.h
+	"tools.h"
+
+1359085902 e:\biblio 1.1\editeur.h
+	"tools.h"
+
+1359099853 e:\biblio 1.1\livre.h
+	"tools.h"
+
+1360884103 e:\biblio 1.1\ouvrage.h
+	"tools.h"
+
+1360894788 e:\biblio 1.1\pret.h
+	"tools.h"
+
+1361111477 e:\biblio 1.1\menue.h
+	"tools.h"
+
+1360738776 source:e:\biblio 1.1\conexion.c
+	"conexion.h"
+
+1360914784 e:\biblio 1.1\conexion.h
+	"tools.h"
+
+1360924464 source:e:\biblio 1.1\editeur.c
+	"editeur.h"
+
+1360924476 source:e:\biblio 1.1\lecteur.c
+	"lecteur.h"
+
+1360924464 source:e:\biblio 1.1\livre.c
+	"livre.h"
+
+1361122386 source:e:\biblio 1.1\menu.c
+	"tools.h"
+
+1361123460 source:e:\biblio 1.1\ouvrage.c
+	"ouvrage.h"
+
+1361111844 source:e:\biblio 1.1\pret.c
+	"pret.h"
+
+1360923994 source:e:\biblio 1.1\principale.c
+	"tools.h"
+
+1360928064 source:c:\biblio 1.1\auteur.c
+	"auteur.h"
+
+1359117834 c:\biblio 1.1\auteur.h
+	"tools.h"
+
+1360883704 c:\biblio 1.1\tools.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"auteur.h"
+	"lecteur.h"
+	"editeur.h"
+	"livre.h"
+	"ouvrage.h"
+	"pret.h"
+	"menue.h"
+
+1359104517 c:\biblio 1.1\lecteur.h
+	"tools.h"
+
+1359089502 c:\biblio 1.1\editeur.h
+	"tools.h"
+
+1359103453 c:\biblio 1.1\livre.h
+	"tools.h"
+
+1360887703 c:\biblio 1.1\ouvrage.h
+	"tools.h"
+
+1360898388 c:\biblio 1.1\pret.h
+	"tools.h"
+
+1361115077 c:\biblio 1.1\menue.h
+	"tools.h"
+
+1360742376 source:c:\biblio 1.1\conexion.c
+	"conexion.h"
+
+1360918384 c:\biblio 1.1\conexion.h
+	"tools.h"
+
+1360928064 source:c:\biblio 1.1\editeur.c
+	"editeur.h"
+
+1360928076 source:c:\biblio 1.1\lecteur.c
+	"lecteur.h"
+
+1360928064 source:c:\biblio 1.1\livre.c
+	"livre.h"
+
+1361125986 source:c:\biblio 1.1\menu.c
+	"tools.h"
+
+1361127060 source:c:\biblio 1.1\ouvrage.c
+	"ouvrage.h"
+
+1361115444 source:c:\biblio 1.1\pret.c
+	"pret.h"
+
+1360927594 source:c:\biblio 1.1\principale.c
+	"tools.h"
+
+1360924464 source:e:\laza\biblio 1.1\auteur.c
+	"auteur.h"
+
+1359114234 e:\laza\biblio 1.1\auteur.h
+	"tools.h"
+
+1360880104 e:\laza\biblio 1.1\tools.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"auteur.h"
+	"lecteur.h"
+	"editeur.h"
+	"livre.h"
+	"ouvrage.h"
+	"pret.h"
+	"menue.h"
+
+1359100917 e:\laza\biblio 1.1\lecteur.h
+	"tools.h"
+
+1359085902 e:\laza\biblio 1.1\editeur.h
+	"tools.h"
+
+1359099853 e:\laza\biblio 1.1\livre.h
+	"tools.h"
+
+1360884103 e:\laza\biblio 1.1\ouvrage.h
+	"tools.h"
+
+1360894788 e:\laza\biblio 1.1\pret.h
+	"tools.h"
+
+1361111477 e:\laza\biblio 1.1\menue.h
+	"tools.h"
+
+1360738776 source:e:\laza\biblio 1.1\conexion.c
+	"conexion.h"
+
+1360914784 e:\laza\biblio 1.1\conexion.h
+	"tools.h"
+
+1360924464 source:e:\laza\biblio 1.1\editeur.c
+	"editeur.h"
+
+1360924476 source:e:\laza\biblio 1.1\lecteur.c
+	"lecteur.h"
+
+1360924464 source:e:\laza\biblio 1.1\livre.c
+	"livre.h"
+
+1361122386 source:e:\laza\biblio 1.1\menu.c
+	"tools.h"
+
+1361123460 source:e:\laza\biblio 1.1\ouvrage.c
+	"ouvrage.h"
+
+1361111844 source:e:\laza\biblio 1.1\pret.c
+	"pret.h"
+
+1360923994 source:e:\laza\biblio 1.1\principale.c
+	"tools.h"
+
+1360924464 source:c:\documents and settings\user\bureau\biblio 1.1\auteur.c
+	"auteur.h"
+
+1359114234 c:\documents and settings\user\bureau\biblio 1.1\auteur.h
+	"tools.h"
+
+1360880104 c:\documents and settings\user\bureau\biblio 1.1\tools.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"auteur.h"
+	"lecteur.h"
+	"editeur.h"
+	"livre.h"
+	"ouvrage.h"
+	"pret.h"
+	"menue.h"
+
+1359100918 c:\documents and settings\user\bureau\biblio 1.1\lecteur.h
+	"tools.h"
+
+1359085902 c:\documents and settings\user\bureau\biblio 1.1\editeur.h
+	"tools.h"
+
+1359099854 c:\documents and settings\user\bureau\biblio 1.1\livre.h
+	"tools.h"
+
+1360884104 c:\documents and settings\user\bureau\biblio 1.1\ouvrage.h
+	"tools.h"
+
+1360894788 c:\documents and settings\user\bureau\biblio 1.1\pret.h
+	"tools.h"
+
+1361111478 c:\documents and settings\user\bureau\biblio 1.1\menue.h
+	"tools.h"
+
+1360738776 source:c:\documents and settings\user\bureau\biblio 1.1\conexion.c
+	"conexion.h"
+
+1360914784 c:\documents and settings\user\bureau\biblio 1.1\conexion.h
+	"tools.h"
+
+1360924464 source:c:\documents and settings\user\bureau\biblio 1.1\editeur.c
+	"editeur.h"
+
+1360924476 source:c:\documents and settings\user\bureau\biblio 1.1\lecteur.c
+	"lecteur.h"
+
+1360924464 source:c:\documents and settings\user\bureau\biblio 1.1\livre.c
+	"livre.h"
+
+1361122386 source:c:\documents and settings\user\bureau\biblio 1.1\menu.c
+	"tools.h"
+
+1361123460 source:c:\documents and settings\user\bureau\biblio 1.1\ouvrage.c
+	"ouvrage.h"
+
+1383114980 source:c:\documents and settings\user\bureau\biblio 1.1\pret.c
+	"pret.h"
+
+1360923994 source:c:\documents and settings\user\bureau\biblio 1.1\principale.c
+	"tools.h"
+
+1360899264 source:e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\auteur.c
+	"auteur.h"
+
+1359089034 e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\auteur.h
+	"tools.h"
+
+1360854904 e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\tools.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"auteur.h"
+	"lecteur.h"
+	"editeur.h"
+	"livre.h"
+	"ouvrage.h"
+	"pret.h"
+	"menue.h"
+
+1359075718 e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\lecteur.h
+	"tools.h"
+
+1359060702 e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\editeur.h
+	"tools.h"
+
+1359074654 e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\livre.h
+	"tools.h"
+
+1360858904 e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\ouvrage.h
+	"tools.h"
+
+1360869588 e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\pret.h
+	"tools.h"
+
+1361086278 e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\menue.h
+	"tools.h"
+
+1360713576 source:e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\conexion.c
+	"conexion.h"
+
+1360889584 e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\conexion.h
+	"tools.h"
+
+1360899264 source:e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\editeur.c
+	"editeur.h"
+
+1360899276 source:e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\lecteur.c
+	"lecteur.h"
+
+1360899264 source:e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\livre.c
+	"livre.h"
+
+1009837947 source:e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\menu.c
+	"tools.h"
+
+1361098260 source:e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\ouvrage.c
+	"ouvrage.h"
+
+1009838451 source:e:\lecons\lecons_programmation\all_lecons_prog\biblio 1.1\principale.c
+	"tools.h"
+

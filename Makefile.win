@@ -1,0 +1,51 @@
+# Project: biblio
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = auteur.o editeur.o lecteur.o livre.o menu.o ouvrage.o pret.o principale.o $(RES)
+LINKOBJ  = auteur.o editeur.o lecteur.o livre.o menu.o ouvrage.o pret.o principale.o $(RES)
+LIBS =  -L"C:/Dev-Cpp/lib"  
+INCS =  -I"C:/Dev-Cpp/include" 
+CXXINCS =  -I"C:/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Dev-Cpp/include/c++/3.4.2/backward"  -I"C:/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"C:/Dev-Cpp/include/c++/3.4.2"  -I"C:/Dev-Cpp/include" 
+BIN  = "biblio 1.1"
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before "biblio 1.1" all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o "biblio 1.1" $(LIBS)
+
+auteur.o: auteur.c
+	$(CC) -c auteur.c -o auteur.o $(CFLAGS)
+
+editeur.o: editeur.c
+	$(CC) -c editeur.c -o editeur.o $(CFLAGS)
+
+lecteur.o: lecteur.c
+	$(CC) -c lecteur.c -o lecteur.o $(CFLAGS)
+
+livre.o: livre.c
+	$(CC) -c livre.c -o livre.o $(CFLAGS)
+
+menu.o: menu.c
+	$(CC) -c menu.c -o menu.o $(CFLAGS)
+
+ouvrage.o: ouvrage.c
+	$(CC) -c ouvrage.c -o ouvrage.o $(CFLAGS)
+
+pret.o: pret.c
+	$(CC) -c pret.c -o pret.o $(CFLAGS)
+
+principale.o: principale.c
+	$(CC) -c principale.c -o principale.o $(CFLAGS)
